@@ -7,4 +7,5 @@
 
 
 ## After compraritive analysis we found out that BERT works the best for Abusive comment detection
-[[model_performance_line_graph.png]]
+
+<img src="model_performance_line_graph.png">
